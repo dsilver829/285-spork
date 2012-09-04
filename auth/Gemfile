@@ -33,4 +33,5 @@ group :test do
   gem "guard-rspec"
   gem "spork"
   gem "bcrypt-ruby"
+  gem "guard-spork"
 end
